@@ -1,7 +1,7 @@
 # Windows Terminal
 - Install Windows Terminal form store.
 - While holding `Ctrl + Shift` click Settings options form the dropdown of terminal To open user setting.
-- Add schemes from [Gist](https://gist.github.com/nirajan-bist/021ca82d98a9361105959e08a638cfaa).
+- Add schemes from [Gist](https://gist.github.com/nirajan-bist/021ca82d98a9361105959e08a638cfaa). (Dark + Theme)
 - Use Any Nerd Font in the Default > Appearance eg.(`Roboto Mono Nerd Font, MesloLG, FiraCode`) [Link](https://www.nerdfonts.com/font-downloads)
 - Enable Acrylic Bakground shadow (Dark+ theme).
 
